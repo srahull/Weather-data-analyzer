@@ -1,1 +1,1 @@
-# Big data project where I analysed weather data to gain insight  
+ Big data project where I analysed weather data to gain insight  
